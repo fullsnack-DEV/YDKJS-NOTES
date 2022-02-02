@@ -1,0 +1,5 @@
+Nested scoping: =>  
+
+Scope is a set of rules for looking up variables by their identifier name.
+
+Scope can also be Nested. If Engine does not find the variable in the immediate scope it will go one level up that is to the outerscope. I will keep searching for that variable untill it reach to the Global Scope. 
